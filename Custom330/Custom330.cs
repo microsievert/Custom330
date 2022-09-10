@@ -12,7 +12,7 @@ namespace Custom330
 
         public override string Name => "Custom330";
         public override string Author => "microsievert";
-        public override Version Version { get; } = new Version(1, 0, 1);
+        public override Version Version { get; } = new Version(1, 0, 2);
 
         private Scp330Handlers _scp330Handlers;
 
