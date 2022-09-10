@@ -10,6 +10,7 @@ namespace Custom330
     {
         public static Custom330 Instance;
 
+        public override string Name => "Custom330";
         public override string Author => "microsievert";
         public override Version Version { get; } = new Version(1, 0, 1);
 
