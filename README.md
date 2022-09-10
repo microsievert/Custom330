@@ -4,7 +4,7 @@
 ## Plugin configuration setup examples
 ### Overriding candy effect
 ```yml
-better330:
+custom330:
   is_enabled: true
   effects_override:
     Red: # Candy for that you want override effects 
